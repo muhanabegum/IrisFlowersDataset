@@ -2,5 +2,3 @@
 Learning data visualization and statistical summaries using the iris flowers dataset online using Jupyter Notebooks. 
 
 Run the code in a Jupyter Notebook to see the data analysis and charts. 
-
-![GitHub Logo](1.png)
