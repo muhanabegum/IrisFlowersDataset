@@ -3,5 +3,4 @@ Learning data visualization and statistical summaries using the iris flowers dat
 
 Run the code in a Jupyter Notebook to see the data analysis and charts. 
 
-
-![First_Image]("1.png")
+![GitHub Logo](1.png)
