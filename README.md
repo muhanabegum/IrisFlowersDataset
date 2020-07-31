@@ -1,5 +1,5 @@
 # IrisFlowersDataset
-Learning data visualization and statistical summaries using the iris flowers dataset online using Python in Jupyter Notebooks and Machine Learning Mastery's tutorial.  
+Learning data visualization and statistical summaries using the iris flowers dataset online, Python in Jupyter Notebooks and Machine Learning Mastery's tutorial.  
 
 Run the code in a Jupyter Notebook to see the data analysis and charts. 
 
